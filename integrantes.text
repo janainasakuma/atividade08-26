@@ -1,1 +1,15 @@
 Giovanna Yumi & Janaína Sakuma
+
+C:\Users\cg3027651\Desktop\atividade08-26>npm start
+
+> atividade08-26@1.0.0 start
+> node index.js
+
+Servidor rodando na porta 3000
+POST /products
+GET /products
+GET /products/1
+PUT /products/1
+PATCH /products/1/preco
+PATCH /products/1/estoque
+DELETE /products/1
